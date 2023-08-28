@@ -40,7 +40,7 @@ class FinalBoard extends React.Component {
                     </div>
                     <div className="pint_mock_icon_container add_pin">
                         <a href="https://www.pinterest.com/" target="_blank" rel="noopener noreferrer" className="centered-link">
-                            <img src="./images/pinterest-logo.png" alt="pinterest_website" className="pint_mock_icon" />
+                            <img src="./images/Pinterest-logo.png" alt="pinterest_website" className="pint_mock_icon" />
                         </a>
                     </div>
                     <div  className="pint_mock_icon_container add_pin">
